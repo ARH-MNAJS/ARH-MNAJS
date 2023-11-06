@@ -2,7 +2,7 @@
 # 💫 About Us:
 Hey there! 👋 We're Prepcrazy, the fun-loving techies behind some of the coolest AI-powered SaaS solutions on the planet! 🌍💡<br>From startups to industry giants, we've got everyone covered with our cutting-edge software. Our mission? To make the world of business smarter, one algorithm at a time! 🤖📈
 
-![Prepcrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prepcrazy&show_icons=true&theme=radical)
+![Prepcrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARH-MNAJS&show_icons=true&theme=radical)
 
 # 🚀Our Products:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Resource+Portal;Game+Portal;AI+Conversational+Companion;AI+Course+Generator;AI+Quiz+Generator)](https://git.io/typing-svg)
