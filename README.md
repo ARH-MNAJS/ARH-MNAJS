@@ -36,11 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
 
-<h1 align="center">Check out my Github Stats</h1>
-
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ARH-MNAJS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=true&order=2&custom_title=Am%20Best%20Known%20For" height="150" alt="languages graph"  />
@@ -58,6 +55,8 @@
 </div>
 
 ###
+
+---
 
 <p align="center">Made with ❤️ by Aditya Singh</p>
 
