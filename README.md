@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Hello Crazy People of the Internet!!!</h1>
 
 ###
