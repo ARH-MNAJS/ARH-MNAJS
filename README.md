@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">My Tech Stack to Rule the World</h4>
+<h4 align="left">Technologies I Use</h4>
 
 ###
 
