@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">With 8 years of experience in coding and Web applications development, Aditya Singh is a proficient web applications developer. Outside of work, he enjoys delving into books, both reading and writing. He is recognized for his keen problem-solving skills and relentless pursuit of opportunities to create a positive impact through his contributions.</p>
+<p align="left">With 9 years of experience in coding and Web applications development, Aditya Singh is a proficient Web Applications developer. Outside of work, he enjoys delving into books, both reading and writing. He is recognized for his keen problem-solving skills and relentless pursuit of opportunities to create a positive impact through his contributions.</p>
 
 ###
 
