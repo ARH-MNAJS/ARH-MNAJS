@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/ARH-MNAJS/ARH-MNAJS/refs/heads/main/SURRPdY.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/ARH-MNAJS/ARH-MNAJS/refs/heads/main/donut.gif"  />
 
 ###
 
