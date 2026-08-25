@@ -6,11 +6,15 @@
 
 ###
 
-<p align="left">With 9 years of experience in coding and Web applications development, Aditya Singh is a proficient Web Applications developer. Outside of work, he enjoys delving into books, both reading and writing. He is recognized for his keen problem-solving skills and relentless pursuit of opportunities to create a positive impact through his contributions.</p>
+<p align="left">Aditya Singh is a Founding Engineer at Euclideum and Head of Technology at Campus Credentials, with over 11 years of experience leading the development of scalable, high-performance technology platforms. He operates at the intersection of leadership and product innovation, driving systems from concept to production with a focus on durability, efficiency, and long-term value.
+
+With a background in Electronics and a specialisation in Data Science, his work is further informed by ongoing engagement in applied AI research, integrated subtly into real-world systems. Beyond software, he actively explores robotics and mechatronics, reflecting a hands-on engineering mindset that extends across disciplines.
+ 
+An author with a sustained engagement in reading and writing, he brings a structured and reflective lens to both technology and thought. He is recognised for his ability to navigate complexity, build with intent, and consistently deliver meaningful, high-impact outcomes.</p>
 
 ###
 
-<h4 align="left">Technologies I Use</h4>
+<h4 align="left">Tech Stack</h4>
 
 ###
 
@@ -37,29 +41,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ARH-MNAJS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=true&order=2&custom_title=Am%20Best%20Known%20For" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ARH-MNAJS&locale=en&mode=daily&theme=vue&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARH-MNAJS/ARH-MNAJS/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARH-MNAJS/ARH-MNAJS/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ARH-MNAJS/ARH-MNAJS/output/ocean.gif" />
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARH-MNAJS&radius=5&theme=github-light&area=true&order=5&custom_title=What%20I%20have%20been%20doing%20lately....&hide_border=true" height="250" alt="activity-graph graph"  />
-</div>
-
-###
-
----
-
-<p align="center">Made with ❤️ by Aditya Singh</p>
+<p align="center">Made with lots of ☕️ by Aditya Singh</p>
 
 ###
